@@ -261,3 +261,16 @@ font-size: 80px;
   vertical-align: middle;
 }
 
+/* Chasngies in button in department phd section */
+.phd
+{
+  background-color:rgb(30, 30, 202);
+  border:rgba(189, 189, 240, 0.68) ;
+  border-radius: 5px;
+  color:white;
+  margin: 10px;
+}
+.phd:hover
+{
+  background-color: rgba(23, 23, 204, 0.68) ;
+}
